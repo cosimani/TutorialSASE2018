@@ -1,20 +1,25 @@
 Tutorial SASE 2018
 ==================
 
-Visión artificial y reconocimiento de patrones para la movilidad de un robot.
------------------------------------------------------------------------------
-
+**Visión artificial y reconocimiento de patrones para la movilidad de un robot**
 
 :Docentes: Ing. César Osimani  - Ing. Martín Salamero
 :Contacto: cosimani@ubp.edu.ar - martin.salamero@gmail.com
-:Material: https://github.com/cosimani/TutorialSASE2018
+:Código fuente: https://github.com/cosimani/RA-CVBot
 
-Créditos
---------
+Acondicionar la Raspberry Pi 
+----------------------------
 
-Parte de este material ha sido inspirado y/o adaptado de múltiples fuentes:
+- Descargar e instalar Raspbian
 
-* `Curso de C++ Zator Systems <http://www.zator.com/Cpp/>`_
+* `RASPBIAN STRETCH WITH DESKTOP <https://downloads.raspberrypi.org/raspbian_latest>`_
+
+- Es una imagen que deberá ser copiada en la memoria SD ( se pueden usar los aplicativos Win32 Disk Imager (Windows) o Disk Image Writer (Ubuntu) )
+
+
+
+
+
 * `Aplicativos para desarrollo con Qt/C++ <http://www.qt.io/download-open-source/>`_
 * `Instaladores offline de Qt <http://download.qt.io/archive/qt/>`_
 * `Tutoriales y ejemplos con la biblioteca Qt <http://doc.qt.io/qt-5/qtexamplesandtutorials.html>`_
