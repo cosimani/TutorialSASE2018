@@ -18,7 +18,7 @@ Acondicionar la Raspberry Pi
 
 .. code-block::
 
-	
+	cd /home/pi
 
 	sudo apt-get update
 
@@ -26,7 +26,9 @@ Acondicionar la Raspberry Pi
 
 	sudo apt-get install build-essential cmake pkg-config
 
-	- Crear una carpeta para compilar OpenCV, por ejemplo usar /home/pi/opencv y allí ejecutar lo siguiente:
+	mkdir opencv
+
+	cd opencv
 
 	sudo wget http://liquidtelecom.dl.sourceforge.net/project/opencvlibrary/opencv-unix/3.1.0/opencv-3.1.0.zip
 
@@ -43,6 +45,13 @@ Acondicionar la Raspberry Pi
 	sudo make
 
 	sudo make install
+
+
+
+
+
+
+	
 
 	sudo nano /etc/ld.so.conf.d/opencv.conf
 
