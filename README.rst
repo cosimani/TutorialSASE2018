@@ -2,10 +2,12 @@ Tutorial SASE 2018
 ==================
 
 Visión artificial y reconocimiento de patrones para la movilidad de un robot.
+-----------------------------------------------------------------------------
 
-:Profesor: Ing. César Osimani
-:Asignatura: Programación Genérica y Eventos
-:Fecha: Agosto a noviembre de 2018
+
+:Docentes: Ing. César Osimani  - Ing. Martín Salamero
+:Contacto: cosimani@ubp.edu.ar - martin.salamero@gmail.com
+:Material: https://github.com/cosimani/TutorialSASE2018
 
 Créditos
 --------
