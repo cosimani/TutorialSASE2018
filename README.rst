@@ -83,9 +83,10 @@ Acondicionar la Raspberry Pi
 	       sudo qtcreator
 
 
-- Abrimos el proyecto con QtCreator seleccionando el archivo .pro
+- Abrimos el proyecto con QtCreator seleccionando el archivo RA-CVBot.pro
 
 .. figure:: imagenes/qtcreator.jpg
+
 
 
 	
