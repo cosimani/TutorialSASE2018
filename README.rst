@@ -62,3 +62,30 @@ Acondicionar la Raspberry Pi
 
 - Ahora estamos listos para compilar el proyecto con QtCreator. Podemos seguir los siguientes pasos:
 
+.. code-block::
+
+	- Instalar desde consola el aplicativo Git:
+
+	       sudo apt-get install git
+
+	- Clonamos el repositorio:
+
+	       cd /home/pi
+
+	       mkdir CVbot
+
+	       cd CVbot
+
+	       git clone https://github.com/cosimani/RA-CVBot
+
+	- Abrimos el QtCreator desde consola como root       
+
+	       sudo qtcreator
+
+
+- Abrimos el proyecto con QtCreator seleccionando el archivo .pro
+
+.. figure:: imagenes/qtcreator.jpg
+
+
+	
