@@ -54,7 +54,7 @@ Acondicionar la Raspberry Pi
 
 	sudo nano /etc/ld.so.conf.d/opencv.conf
 
-	               /usr/local/lib  # Esta línea debe ser copiada dentro del archivo /etc/ld.so.conf.d/opencv.conf
+	               /usr/local/lib  # Esta línea debe ser copiada en el archivo /etc/ld.so.conf.d/opencv.conf
 
 	sudo ldconfig
 
